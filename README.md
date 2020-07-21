@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... React
-- 🌱 I’m currently learning ... Docker
+- 🌱 I’m currently learning ... Kubernetes
 - 👯 I’m looking to collaborate on ... React native
 - 🤔 I’m looking for help with ... Docker
 - 💬 Ask me about ...  Anything
