@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/LishuGupta652/lishugupta652/blob/master/dino.gif)
+
 
 - 🔭 I’m currently working on ... React
 - 🌱 I’m currently learning ... Backend Engineering
