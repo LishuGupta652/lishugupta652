@@ -12,3 +12,26 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am still learning.
 
+<html>
+  <head>
+    <style>
+      .container{
+        width: 100%;
+      }
+      .card{
+        width: 300px;
+        color: #fafafa;
+        background-color: #212121;
+        margin: 20px auto;
+      }
+    </style>
+  </head>
+  <body>
+  <div class="container">
+    <div class="card">
+      Github
+    </div>
+  </div>
+  </body>
+  
+  </html>
