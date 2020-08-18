@@ -13,22 +13,9 @@
 - ⚡ Fun fact: ... I am still learning.
 
 <html>
-  <head>
-    <style>
-      .container{
-        width: 100%;
-      }
-      .card{
-        width: 300px;
-        color: #fafafa;
-        background-color: #212121;
-        margin: 20px auto;
-      }
-    </style>
-  </head>
   <body>
-  <div class="container">
-    <div class="card">
+  <div class="container" style="width:100%;">
+    <div class="card" style=" width: 300px; color: #fafafa; background-color: #212121; margin: 20px auto;">
       Github
     </div>
   </div>
