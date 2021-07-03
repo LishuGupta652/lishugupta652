@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on ... React native
 - 🤔 I’m looking for help with ... Docker
 - 💬 Ask me about ...  Anything
-- 📫 How to reach me: ... [Website](https://www.lishugupta.ml)
+- 📫 How to reach me: ... [Website](https://www.gitman.ml)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am still learning.
