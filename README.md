@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 ![image](https://github.com/LishuGupta652/lishugupta652/blob/master/dino.gif)
 
@@ -11,3 +11,5 @@
 - 📫 How to reach me: ... [Website](https://www.gitman.ml)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am still learning.
+
+GITMAN LIVE💗
