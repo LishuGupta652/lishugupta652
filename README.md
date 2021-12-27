@@ -14,4 +14,4 @@
 
 GITMAN STATUS💗
 
-[![Lishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishugupta652)](https://github.com/lishugupta652)
+[![Lishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishugupta652&theme=darcula&show_icons=true)](https://github.com/lishugupta652)
