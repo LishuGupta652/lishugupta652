@@ -14,4 +14,4 @@
 
 GITMAN STATUS💗
 
-[![Lishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Lishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishugupta652)](https://github.com/lishugupta652)
