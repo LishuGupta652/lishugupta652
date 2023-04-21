@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ... Typescript
 - 🌱 I’m currently learning ... Backend Engineering | Cloud | Cyber Security
 - 👯 I’m looking to collaborate on ... data structure and algo
-- 🤔 I’m looking for help with ... 
+<!-- - 🤔 I’m looking for help with ...  -->
 - 💬 Ask me about ...  Anything
 - 📫 How to reach me: ... [Website](https://www.lishu.ml)
 - 😄 Pronouns: ... He/Him
