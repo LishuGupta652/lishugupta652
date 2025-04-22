@@ -3,27 +3,17 @@
 ![image](https://github.com/LishuGupta652/lishugupta652/blob/master/dino.gif)
 
 
-🚀 Full Stack Developer | 💡 Tech Enthusiast | 🎨 Design Enthusiast
+🚀 Full Stack Developer | DevOps Leader | AI & LLM Enthusiast | Cloud Solutions Architect
 
-Hey there! 👋 I'm Lishu Gupta, a passionate Full Stack Developer who loves turning ideas into reality through code. 
-My tech toolkit includes TypeScript, NodeJS, ReactJS, and NestJS, which I blend seamlessly with design tools like Figma and Blender to create eye-catching interfaces. 
-From crafting cloud functions on Google Cloud Platform to solving coding puzzles, 
-I'm all about pushing the boundaries of what's possible in the digital world. Let's collaborate and create something amazing together! 🌟
+Hey there! 👋 I'm Lishu Gupta, a passionate Full Stack Developer and DevOps leader dedicated to building scalable, cutting-edge solutions. I specialize in crafting seamless, high-performance applications using TypeScript, NodeJS, ReactJS, NestJS, and Python, while integrating AI workflows and LLM models to push the boundaries of what's possible in the digital world. My cloud expertise spans across AWS, Azure, and Google Cloud Platform, where I design cloud-native applications and automate infrastructure using tools like Terraform and Docker.
 
-🔧 Armed with a passion for both front-end and back-end development, I enjoy blending creativity and functionality to build user interfaces that captivate and delight. But wait, there's more! I'm not just a developer; I'm also a design enthusiast who paints digital canvases with tools like Figma and Blender, breathing life into ideas and concepts.
+🔧 I thrive on creating both the front-end and back-end components that make up modern, responsive web applications. With a focus on user-centered design, I turn ideas into beautifully functional digital experiences. From developing cloud-based functions to deploying efficient and scalable solutions, my goal is to bridge technology with creativity to deliver robust, user-friendly platforms.
 
-⚙️ When I'm not busy crafting lines of code, you can find me immersed in the fascinating world of cloud computing. Google Cloud Platform is my playground, where I tinker with cloud functions, deploy applications, and unravel the mysteries of scalable solutions.
+⚙️ When I’m not building applications, you’ll find me exploring the exciting world of DevOps—automating processes, optimizing cloud deployments, and enhancing CI/CD pipelines to ensure smooth, efficient delivery of applications. I’m passionate about infrastructure as code, containerization, and streamlining development workflows for faster, reliable product launches.
 
-🧩 As an advocate of open source, I believe in the power of collaboration. I actively contribute to various open source projects, embracing the spirit of community-driven development. Together, we can make technology more accessible, robust, and exciting.
+🧩 As an advocate for open-source development, I actively contribute to projects that foster collaboration and innovation. By sharing knowledge and building community-driven tools, I aim to make technology more accessible and empower developers worldwide to create exceptional solutions.
 
-🌌 So, whether you're a fellow explorer, a coding enthusiast, or just someone curious about the world of technology, join me on this exhilarating journey. Together, we'll build, learn, and shape the digital landscapes of tomorrow. Let's connect and create magic with code! 🌟
-
-
-
-
-
-
-
+🌌 Whether you’re a fellow tech enthusiast, a team looking to innovate, or simply someone eager to learn and collaborate, join me on this exciting journey of technological discovery. Let's connect, collaborate, and build the next generation of digital experiences! 🌟
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishugupta652&layout=compact)](https://github.com/lishugupta652) -->
