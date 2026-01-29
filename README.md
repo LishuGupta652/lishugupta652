@@ -15,20 +15,27 @@ Hey there! 👋 I'm Lishu Gupta, a passionate Full Stack Developer and DevOps le
 
 🌌 Whether you’re a fellow tech enthusiast, a team looking to innovate, or simply someone eager to learn and collaborate, join me on this exciting journey of technological discovery. Let's connect, collaborate, and build the next generation of digital experiences! 🌟
 
+Here’s a **tight, minimal version** — consistent, clean, and easy to scan 👌
+
+
 ## 🚀 Projects
 
-## 🍎 Boilerplate macOS Toolbar  
-Website: https://macos-toolkit.lishugupta.in · GitHub: https://github.com/LishuGupta652/macos-toolkit  
-
+### 🍎 Boilerplate macOS Toolbar  
+https://macos-toolkit.lishugupta.in · https://github.com/LishuGupta652/macos-toolkit  
 A ready-to-use macOS toolbar boilerplate to quickly build, customize, and ship native productivity tools.
 
 ```bash
 brew reinstall --cask --no-quarantine mactools
-```
+````
 
-- **Boilerplate Mobile App**  
-  https://mobile-boilerplate.lishugupta.in  
-  A scalable mobile app boilerplate with preconfigured architecture, authentication, and common app essentials.
+### 📱 Boilerplate Mobile App
+[https://mobile-boilerplate.lishugupta.in](https://mobile-boilerplate.lishugupta.in)
+A scalable mobile app boilerplate with preconfigured architecture and app essentials.
+
+
+If you want it **even more compact** (one-liner per project), I can compress it further.
+::contentReference[oaicite:0]{index=0}
+```
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishugupta652&layout=compact)](https://github.com/lishugupta652) -->
