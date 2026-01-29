@@ -26,16 +26,11 @@ A ready-to-use macOS toolbar boilerplate to quickly build, customize, and ship n
 
 ```bash
 brew reinstall --cask --no-quarantine mactools
-````
+```
 
 ### 📱 Boilerplate Mobile App
 [https://mobile-boilerplate.lishugupta.in](https://mobile-boilerplate.lishugupta.in)
 A scalable mobile app boilerplate with preconfigured architecture and app essentials.
-
-
-If you want it **even more compact** (one-liner per project), I can compress it further.
-::contentReference[oaicite:0]{index=0}
-```
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishugupta652&layout=compact)](https://github.com/lishugupta652) -->
