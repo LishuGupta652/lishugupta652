@@ -15,6 +15,14 @@ Hey there! 👋 I'm Lishu Gupta, a passionate Full Stack Developer and DevOps le
 
 🌌 Whether you’re a fellow tech enthusiast, a team looking to innovate, or simply someone eager to learn and collaborate, join me on this exciting journey of technological discovery. Let's connect, collaborate, and build the next generation of digital experiences! 🌟
 
+## 🚀 Projects
+
+- **Boilerplate MacOS Toolbar**  
+  https://mactoolbar.lishugupta.in
+  AI-powered analytics and querying solution built using Wren AI to help businesses derive insights using natural language.
+
+
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishugupta652&layout=compact)](https://github.com/lishugupta652) -->
 
