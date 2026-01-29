@@ -18,7 +18,7 @@ Hey there! 👋 I'm Lishu Gupta, a passionate Full Stack Developer and DevOps le
 ## 🚀 Projects
 
 - **Boilerplate MacOS Toolbar**  
-  https://mactoolbar.lishugupta.in  
+  https://macos-toolkit.lishugupta.in  
   A ready-to-use macOS toolbar boilerplate to quickly build, customize, and ship native productivity tools.
 
 - **Boilerplate Mobile App**  
