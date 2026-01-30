@@ -20,22 +20,30 @@ Here’s a **tight, minimal version** — consistent, clean, and easy to scan �
 
 ## 🚀 Projects
 
-### ClipShield
+### 1. ClipShield  
+https://clipshield.lishugupta.in · https://github.com/LishuGupta652/ClipShield  
 
-https://clipshield.lishugupta.in · https://github.com/LishuGupta652/ClipShield
 ClipShield is a macOS menu bar clipboard guardian that detects and redacts PII before it hits Slack, Jira, Notion, or any other app.
 
-### 🍎 Boilerplate macOS Toolbar  
+---
+
+### 2. 🍎 Boilerplate macOS Toolbar  
 https://macos-toolkit.lishugupta.in · https://github.com/LishuGupta652/macos-toolkit  
+
 A ready-to-use macOS toolbar boilerplate to quickly build, customize, and ship native productivity tools.
 
 ```bash
 brew reinstall --cask --no-quarantine mactools
-```
+````
 
-### 📱 Boilerplate Mobile App
+---
+
+### 3. 📱 Boilerplate Mobile App
+
 [https://mobile-boilerplate.lishugupta.in](https://mobile-boilerplate.lishugupta.in)
+
 A scalable mobile app boilerplate with preconfigured architecture and app essentials.
+
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishugupta652&layout=compact)](https://github.com/lishugupta652) -->
