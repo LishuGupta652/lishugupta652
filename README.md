@@ -1,4 +1,4 @@
-### Hi there 👋 
+<img width="1765" height="834" alt="image" src="https://github.com/user-attachments/assets/19468005-730b-4629-b616-b570dfdfc9af" />### Hi there 👋 
 
 ![image](https://github.com/LishuGupta652/lishugupta652/blob/master/dino.gif)
 
@@ -36,11 +36,21 @@ A ready-to-use macOS toolbar boilerplate to quickly build, customize, and ship n
 brew reinstall --cask --no-quarantine mactools
 ````
 
+---
+
 ### 3. Trippl Burn 
 
 https://tripplburn.lishugupta.in/ 
 
 Track the real cost of your meetings in real-time.
+
+---
+
+### 4. JWT Inspector 
+
+https://jwt.lishugupta.in/  | https://github.com/LishuGupta652/jwt-alchemy-toolkit
+
+JWT Inspector & Tinkerer is a developer-friendly tool to decode, inspect, and experiment with JWTs entirely in the browser
 
 ---
 
@@ -50,6 +60,7 @@ Track the real cost of your meetings in real-time.
 
 A scalable mobile app boilerplate with preconfigured architecture and app essentials.
 
+---
 
 ### 5. Mongo DB Viewer 
 
