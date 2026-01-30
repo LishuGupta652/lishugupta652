@@ -1,4 +1,4 @@
-<img width="1765" height="834" alt="image" src="https://github.com/user-attachments/assets/19468005-730b-4629-b616-b570dfdfc9af" />### Hi there 👋 
+### Hi there 👋 
 
 ![image](https://github.com/LishuGupta652/lishugupta652/blob/master/dino.gif)
 
