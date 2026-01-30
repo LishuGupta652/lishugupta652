@@ -36,9 +36,15 @@ A ready-to-use macOS toolbar boilerplate to quickly build, customize, and ship n
 brew reinstall --cask --no-quarantine mactools
 ````
 
+### 3. Trippl Burn 
+
+https://tripplburn.lishugupta.in/ 
+
+Track the real cost of your meetings in real-time.
+
 ---
 
-### 3. 📱 Boilerplate Mobile App
+### 4. 📱 Boilerplate Mobile App
 
 [https://mobile-boilerplate.lishugupta.in](https://mobile-boilerplate.lishugupta.in)
 
