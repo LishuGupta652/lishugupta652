@@ -15,8 +15,6 @@ Hey there! 👋 I'm Lishu Gupta, a passionate Full Stack Developer and DevOps le
 
 🌌 Whether you’re a fellow tech enthusiast, a team looking to innovate, or simply someone eager to learn and collaborate, join me on this exciting journey of technological discovery. Let's connect, collaborate, and build the next generation of digital experiences! 🌟
 
-Here’s a **tight, minimal version** — consistent, clean, and easy to scan 👌
-
 
 ## 🚀 Projects
 
